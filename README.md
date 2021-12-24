@@ -1,21 +1,2 @@
 ## Deploy To Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-<!--Bored actually-->
-
-#
-#
-#
-#
-# 
----
----
----
----
----
----
-# Do i Know You? 
----
----
----
----
